@@ -79,7 +79,7 @@ public class javaprogramming {
 		}else {
 			return "Scissors";
 		}
-		}
+	}
 		
 	}
 	
