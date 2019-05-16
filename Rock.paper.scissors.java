@@ -21,7 +21,7 @@ public class javaprogramming {
 				gamesCompleted++;
 			}
 	}
-		System.out.print("\nThanks for playing Rock, ,paper, Scissors");
+		System.out.print("\nThanks for playing Rock, Paper, Scissors");
 	}
 	public static void printResults(String userChoice,  String computerChoice){
 		System.out.print("\nYou chose:   " + userChoice);
