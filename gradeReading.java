@@ -8,7 +8,7 @@ public class Javagrades {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 /* 
- * Create a program that uses an indefinite loop to read in the data from the file ìgrades.txtî.  
+ * Create a program that uses an indefinite loop to read in the data from the file ‚Äúgrades.txt‚Äù.  
  * As you read in each integer, use a selection structure to count number of 
  * As, Bs, Cs, Ds and Fs based on the following scale:
  * 
@@ -45,7 +45,7 @@ public class Javagrades {
 
 	
 		
-		//Declare a file object
+	//Declare a file object
         File inFile = new File("grades.txt");
        
         //Declare Scanner
